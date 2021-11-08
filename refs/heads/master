@@ -1,13 +1,13 @@
 certificate version 0.1
-pusher 9A607DDF 1635860605 +0900
+pusher 9A607DDF 1636379182 +0900
 pushee git.gentoo.org:sites/soko-metadata.git
-nonce 1635860605-4dd953cb4ae304c8c587aba52916b762adab3b92
+nonce 1636379186-8323c4cdc19d4a517cf8321990df48b116dc4da6
 
-2baf58a5c7828ed51ae85f37ac6c244e4e30f639 9febf4cbdada9f9c814ac6c32bcd3f4da64ed3a6 refs/heads/master
+9febf4cbdada9f9c814ac6c32bcd3f4da64ed3a6 0ddca96dbfb97935d8c90574be78ffcd1dc50626 refs/heads/master
 -----BEGIN PGP SIGNATURE-----
 
-iHUEABYIAB0WIQQFEq6VMfBNm5o5rZtbQ+PigXdl6wUCYYFAfgAKCRBbQ+PigXdl
-62B7AP4725U6YGtdw2zTp0TM7EpML+PjERH62ucPpMNAXzCREwD/TFYVsZrT3tPQ
-KovhzCZ8C/3Z5cGOVJhtRsEgFuaZKQg=
-=IW1H
+iHUEABYIAB0WIQQFEq6VMfBNm5o5rZtbQ+PigXdl6wUCYYkqLgAKCRBbQ+PigXdl
+61S5AQDOBq4sNC62j8n75QGC2ZR5p+KdyPcKhhxBlc9F4hq/rQD/e0VGtv0Oizjm
+tWzaStIUwhg/xc+KHSSYt1kNJcbDMQA=
+=b5Sv
 -----END PGP SIGNATURE-----
