@@ -52,6 +52,7 @@ dev-lua/say-1.3_p1-r101
 
 dev-ml/camomile::aur
 dev-ml/core::aur
+dev-ml/sexplib::freebsd
 
 dev-perl/Bio-DB-HTS
 
