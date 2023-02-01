@@ -53,6 +53,22 @@ dev-lua/say-1.3_p1-r101
 dev-ml/camomile::aur
 dev-ml/core::aur
 dev-ml/sexplib::freebsd
+dev-ml/variantslib::debian_8
+dev-ml/variantslib::debian_9
+dev-ml/variantslib::debian_10
+dev-ml/variantslib::debian_janitor_snapshots
+dev-ml/variantslib::deepin_unstable
+dev-ml/variantslib::devuan_1_0
+dev-ml/variantslib::devuan_2_0
+dev-ml/variantslib::devuan_3_0
+dev-ml/variantslib::pardus_17
+dev-ml/variantslib::pardus_19
+dev-ml/variantslib::pureos_amber
+dev-ml/variantslib::raspbian_oldstable
+dev-ml/variantslib::trisquel_8_0
+dev-ml/variantslib::trisquel_9_0
+dev-ml/variantslib::ubuntu_16_04
+dev-ml/variantslib::ubuntu_18_04
 
 dev-perl/Bio-DB-HTS
 
