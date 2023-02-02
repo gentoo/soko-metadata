@@ -65,9 +65,7 @@ dev-ml/variantslib::pardus_17
 dev-ml/variantslib::pardus_19
 dev-ml/variantslib::pureos_amber
 dev-ml/variantslib::raspbian_oldstable
-dev-ml/variantslib::trisquel_8_0
 dev-ml/variantslib::trisquel_9_0
-dev-ml/variantslib::ubuntu_16_04
 dev-ml/variantslib::ubuntu_18_04
 
 dev-perl/Bio-DB-HTS

@@ -11,3 +11,14 @@ chocolatey
 npackd_stable64
 scoop
 winget
+
+# Messing up dev-ml/* version
+trisquel_8_0
+ubuntu_16_04
+fedora_26
+fedora_27
+fedora_28
+fedora_29
+fedora_30
+fedora_31
+fedora_32
