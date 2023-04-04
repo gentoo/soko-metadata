@@ -139,6 +139,8 @@ net-p2p/mktorrent
 
 sci-electronics/NanoVNA-QT::gentoo_ovl_pentoo
 
+sci-libs(kineto::liguros_stable
+
 sys-apps/inxi
 sys-apps/memtest86+::openmandriva_cooker
 
