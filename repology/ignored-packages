@@ -118,6 +118,7 @@ media-sound/pulseeffects
 #
 
 net-dialup/cutecom::nix_unstable
+net-dns/ddclient-3.10.0
 net-firewall/ufw
 net-irc/ircii::slackbuilds
 net-misc/dropbox::void_x86_64
