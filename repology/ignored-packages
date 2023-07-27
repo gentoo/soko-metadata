@@ -153,6 +153,8 @@ sys-apps/memtest86+::openmandriva_cooker
 sys-auth/pambase
 
 sys-devel/autoconf-wrapper
+sys-devel/gcc
+
 sys-libs/pam
 
 sys-libs/blocksruntime-20181028
