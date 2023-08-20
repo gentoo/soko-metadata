@@ -126,6 +126,7 @@ net-misc/nextcloud-client::winget
 net-misc/youtube-dl-2021.12.27::t2
 net-p2p/mktorrent
 net-proxy/lyrebird
+net-wireless/wireless-regdb-2023.07.21::opensuse_tumbleweed
 
 #
 # P
@@ -154,6 +155,10 @@ sys-auth/pambase
 
 sys-devel/autoconf-wrapper
 sys-devel/gcc
+
+sys-kernel/linux-firmware::nix_stable_23_05
+sys-kernel/linux-firmware::nix_unstable
+sys-kernel/linux-firmware::openmamba
 
 sys-libs/pam
 
