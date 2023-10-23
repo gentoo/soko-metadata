@@ -47,6 +47,8 @@ app-text/xiphos::opensuse_education_tumbleweed
 #
 dev-java/jakarta-activation-2.1.2
 dev-java/jakarta-mail-2.1.2
+dev-java/jgoodies-common
+dev-java/jgoodies-looks
 
 dev-libs/cyberjack-3.99.5_p15
 
