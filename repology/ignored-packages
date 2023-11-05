@@ -131,6 +131,7 @@ net-irc/ircii::slackbuilds
 net-misc/dropbox::void_x86_64
 net-misc/nextcloud-client::winget
 net-misc/youtube-dl-2021.12.27::t2
+net-p2p/freenet-01497
 net-p2p/mktorrent
 net-proxy/lyrebird
 net-wireless/wireless-regdb-2023.07.21::opensuse_tumbleweed
