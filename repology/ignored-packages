@@ -54,6 +54,7 @@ dev-java/javahelp-2.0.05_p20170719-r3
 dev-java/jgoodies-common
 dev-java/jgoodies-looks
 dev-java/jline
+dev-java/osgi-service-log
 dev-java/tomcat-servlet-api
 dev-java/txw2-2.3.8-r1
 dev-java/xmlunit-1.6-r1
