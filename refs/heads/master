@@ -1,13 +1,15 @@
 certificate version 0.1
-pusher 9A607DDF 1706334696 +0900
-pushee git.gentoo.org:sites/soko-metadata.git
-nonce 1706334695-df1cc93e914670da254dd36f9b0306c98d35696f
+pusher Sam James <sam@gentoo.org> 1709323141 +0000
+pushee git+ssh://git.gentoo.org/sites/soko-metadata.git
+nonce 1709323141-eda401c1df2d5c57e977da32478b3c4a8700afa6
 
-af352cfe9f98fa7d2d54d006649a4b584f48595f 6c4af5a73a3e2a1019f99e34de939112329f4443 refs/heads/master
+6c4af5a73a3e2a1019f99e34de939112329f4443 3bff0b972b6f9804c1de41a3eec8413b0d1fc0c5 refs/heads/master
 -----BEGIN PGP SIGNATURE-----
 
-iHUEABYIAB0WIQQFEq6VMfBNm5o5rZtbQ+PigXdl6wUCZbSZ6AAKCRBbQ+PigXdl
-66XWAQC6RFbAEd/1TMqSwiJyAXBAqg1Fy6h8NK9Qpi7uO1UwLQEA6chAVf0hA/1E
-Qgspj2DXC1irfd5KU0qWUw6goBcxTgI=
-=MO0l
+iOUEABYKAI0WIQQlpruI3Zt2TGtVQcJzhAn1IN+RkAUCZeIzhV8UgAAAAAAuAChp
+c3N1ZXItZnByQG5vdGF0aW9ucy5vcGVucGdwLmZpZnRoaG9yc2VtYW4ubmV0MjVB
+NkJCODhERDlCNzY0QzZCNTU0MUMyNzM4NDA5RjUyMERGOTE5MA8cc2FtQGdlbnRv
+by5vcmcACgkQc4QJ9SDfkZDExgD/dEn2ZucZnkXPS9iQtKe7Dw93gcaiDUgWM3ap
+muK9M4cA/i50LJ0N73rujaz9CABpDp/qcsXoJZWrxLfVwA838ycH
+=Z2Ex
 -----END PGP SIGNATURE-----
