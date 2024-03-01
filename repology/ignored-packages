@@ -150,6 +150,7 @@ media-fonts/fonts-meta
 media-gfx/fdm-materials::dports
 media-gfx/gmic::wikidata
 media-libs/Field3D-1.7.3.20230509::slackbuilds
+media-gfx/zbar-0.23.90
 media-sound/pulseeffects
 
 #
