@@ -1,0 +1,7 @@
+##
+## You can select which repositories to follow for a package. For those
+## packages, only if a newer version in any repository having that prefix, will
+## trigger an outdated warning.
+##
+
+sys-boot/shim::fedora
