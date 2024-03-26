@@ -25,6 +25,7 @@ app-doc/vilearn-1.1
 app-editors/aee-2.2.22
 
 app-emulation/distrobuilder
+app-emulation/ruffle
 
 app-forensics/afl::crux
 app-forensics/afl::rosa
