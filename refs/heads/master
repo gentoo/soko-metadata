@@ -1,17 +1,17 @@
 certificate version 0.1
-pusher 0xAECFCBDC64276180 1711482764 -0400
-pushee gentoo:sites/soko-metadata.git
-nonce 1711482764-3ca77911c1598b139dc8068d9b8edebe1a38e2dc
+pusher 38514F35D453DDE719F74C6AFC1FFCB5DC7D67A3 1712136110 +0300
+pushee git+ssh://git.gentoo.org/sites/soko-metadata.git
+nonce 1712136110-61a508be7fff95838c82af96d8839fe64dcf74a5
 
-4c3f5905c9a2d6e517101bd4fa1c48a02e7e84eb 55a5ab8c7bc5d5302639e2a10cf4c731ed3624ab refs/heads/master
+55a5ab8c7bc5d5302639e2a10cf4c731ed3624ab 97a6252d0655266c4227b22a3799a6a720bf53c1 refs/heads/master
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAABCAAdFiEEx3SLh1HBoPy/yLVYskQGsLCsQzQFAmYDJ4wACgkQskQGsLCs
-QzQiIggAzMDtFMw/sey/vl5AFy//4onsnZz3wyTWfWH6OuLJz+ijLlUqdEknj4uN
-57G7ZmPTGvLIe2f+tFqAvT+OChAp42xHZBNtaq5KMMZrcOHSZPuQoNjagbni5m4p
-oMTyMUBpv3jPZLnbtHMdvt0vkal5q9PJ04eR+EvfMQ3CDuvhdnm3oHzIJLXjISeA
-6w23fobVwl8r+SmXO9cxq7vgT2mQPauhEICy12hlgLywssN9pXlsXxk0mMQVyMoX
-G3NvgmTOuySLAEybwm9SBLGp9iE8XVFa2v5/9PvypHBPMZx6gZh2SKYz2xaq5kWN
-XQDeXK2a4mva1lgAS3WKf4lHgSg1mg==
-=tjNs
+iQEzBAABCgAdFiEE/axFlFuH2ptjtO5EAqCvUD0SBQQFAmYNH64ACgkQAqCvUD0S
+BQSLfQf/YyXty+HnH4/tc/fqDlOXWp7Ptsq7iaWGIVzob1Tx87AgqsI7vg2Exqvl
+zAMvbsAMScoD6PJ6GBVgJxkjTPttvsRyLoRHaZhTL2yRmdfk9qnjVm+Kqh1+FkPK
+Qe4A0mZIUSw9Gv4Q1Bx7o+UbkDBGt0UFjtRuD3nCk+japESGIeB2EdymQd4pLocE
+yTnUNjVdepiFe6hGPenkxQm7etctsaQOCdyRkHwqa10f0phTbrZ2fdpOtT1mYZ2X
+EbhocrhKz1oYevCk4x6bG4VcT2lLq6mqp2nS4ad8daGu/n2IiBCVD62oeRuzLgJe
+buNDOV4kILAVzuDxqieIiMGs8As0/w==
+=4HHj
 -----END PGP SIGNATURE-----
