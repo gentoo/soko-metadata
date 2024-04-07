@@ -15,6 +15,7 @@ app-admin/sysstat-12.6.1
 app-crypt/libmd::DPorts
 
 app-crypt/libu2f-host::slackbuilds
+app-crypt/yubikey-manager-qt-1.2.6
 
 app-dicts/aspell-eo-2.1.20000225.2
 app-dicts/aspell-gl-0.5.2
