@@ -183,7 +183,7 @@ sys-kernel/linux-firmware::openmamba
 
 sys-libs/pam
 
-sys-libs/blocksruntime-20181028
+sys-libs/blocksruntime::slackbuilds
 
 sys-process/incron::freebsd
 
