@@ -48,6 +48,8 @@ app-text/xiphos::opensuse_education_tumbleweed
 #
 # D
 #
+dev-build/autoconf-wrapper
+
 dev-java/gwt-2.9.0-r3
 dev-java/jakarta-activation-2.1.2
 dev-java/jakarta-mail-2.1.2
@@ -174,7 +176,6 @@ sys-apps/memtest86+::openmandriva_cooker
 
 sys-auth/pambase
 
-sys-devel/autoconf-wrapper
 sys-devel/gcc
 
 sys-kernel/linux-firmware::nix_stable_23_05
