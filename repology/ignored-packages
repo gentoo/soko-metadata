@@ -63,6 +63,7 @@ dev-java/jtidy-938
 dev-java/osgi-service-log
 dev-java/protobuf-java-28.3
 dev-java/rxtx
+dev-java/swingx-1.6.5.1
 dev-java/tomcat-servlet-api
 dev-java/txw2
 dev-java/xmlunit
