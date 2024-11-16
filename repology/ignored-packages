@@ -58,7 +58,6 @@ dev-java/jakarta-regexp
 dev-java/javahelp
 dev-java/jgoodies-common
 dev-java/jgoodies-looks
-dev-java/jline
 dev-java/jsch-0.2.19
 dev-java/jtidy-938
 dev-java/osgi-service-log
