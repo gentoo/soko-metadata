@@ -66,6 +66,7 @@ dev-java/txw2
 dev-java/xmlunit
 
 dev-libs/cyberjack-3.99.5_p17
+dev-libs/newt::nix_unstable
 
 dev-lua/lpeg-1.0.2-1
 dev-lua/lua_cliargs-3.0_p2-r100
