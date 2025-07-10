@@ -133,8 +133,9 @@ games-action/supermariowar
 media-fonts/fonts-meta
 media-gfx/fdm-materials::dports
 media-gfx/gmic::wikidata
-media-libs/Field3D-1.7.3.20230509::slackbuilds
+media-gfx/xv-6.0.3
 media-gfx/zbar-0.23.90
+media-libs/Field3D-1.7.3.20230509::slackbuilds
 media-sound/pulseeffects
 
 #
@@ -178,6 +179,8 @@ sys-apps/inxi
 sys-apps/memtest86+::openmandriva_cooker
 
 sys-auth/pambase
+
+sys-boot/os-prober-1.83
 
 sys-devel/gcc
 
