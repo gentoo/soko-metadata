@@ -50,6 +50,7 @@ app-text/xiphos::opensuse_education_tumbleweed
 #
 dev-build/autoconf-wrapper
 
+dev-debug/dtrace::macports
 dev-debug/dtrace::MacPorts
 
 dev-java/jakarta-activation-2.1.2
