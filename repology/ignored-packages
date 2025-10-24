@@ -58,6 +58,8 @@ dev-java/jakarta-activation-2.1.2
 dev-java/jakarta-mail-2.1.2
 dev-java/jakarta-regexp
 dev-java/javahelp
+dev-java/javapoet-1.13.0.1
+dev-java/javapoet-1.13.0.2
 dev-java/jsch-0.2.19
 dev-java/jtidy-938
 dev-java/osgi-service-log
