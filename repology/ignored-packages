@@ -194,6 +194,7 @@ sys-kernel/linux-firmware::nix_stable_23_05
 sys-kernel/linux-firmware::nix_unstable
 sys-kernel/linux-firmware::openmamba
 
+sys-libs/ncurses-compat
 sys-libs/pam
 
 sys-libs/blocksruntime::slackbuilds
