@@ -187,6 +187,7 @@ sys-apps/memtest86+::openmandriva_cooker
 sys-auth/pambase
 
 sys-boot/os-prober-1.83
+sys-boot/os-prober-1.84
 
 sys-devel/gcc
 
