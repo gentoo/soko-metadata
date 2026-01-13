@@ -107,6 +107,11 @@ dev-util/shunit2
 
 dev-vcs/git-flow-20120925
 
+dev-vcs/git-merge-changelog-20120413
+dev-vcs/git-merge-changelog-20140202
+dev-vcs/git-merge-changelog-20231121
+dev-vcs/git-merge-changelog-20250729
+
 #
 # G
 #
